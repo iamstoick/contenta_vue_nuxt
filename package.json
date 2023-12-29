@@ -5,7 +5,7 @@
   "author": "yann <yann@yineo.fr>",
   "private": true,
   "dependencies": {
-    "axios": "0.16.2",
+    "axios": "1.6.3",
     "d8-subrequests": "0.0.5",
     "jsonapi-parse": "1.2.0",
     "nuxt": "1.0.0-alpha.5",
